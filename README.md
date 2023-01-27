@@ -10,8 +10,16 @@ Tämä todennussovellus on rakennettu käyttämällä Node.js:ää, Expressiä, 
 
 #Usage
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+npm install
+
+```
+
+```
+ npm start
+# Or run with Nodemon
+$ npm run dev
+
+# Visit http://localhost:5000
+
 ```
 
