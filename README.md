@@ -8,7 +8,7 @@ Finnish:
 Tämä todennussovellus on rakennettu käyttämällä Node.js:ää, Expressiä, Passportia ja Mongoosea. Siinä on kirjautumis- ja rekisteröintitoiminnot sekä pääsynhallinta, joka rajoittaa tietyt sivut tai toiminnot vain kirjautuneille käyttäjille. Koodi on kirjoitettu JavaScriptillä ja se käyttää ejs-mallimoottoria näkymien hahmontamiseen. Sen avulla käyttäjät voivat luoda tilin ja sitten kirjautua sisään päästäkseen suojatuille sivuille tai toimintoihin. Sovellus käyttää Passportia, suosittua Node.js:n todennusväliohjelmistoa, hoitamaan todennusprosessia ja Mongoosea vuorovaikutuksessa MongoDB-tietokannan kanssa käyttäjätietojen tallentamiseksi.
 
 
-#Usage
+# Usage
 ```
 npm install
 
@@ -16,10 +16,10 @@ npm install
 
 ```
  npm start
-# Or run with Nodemon
-$ npm run dev
+ Or run with Nodemon
+ npm run dev
 
-# Visit http://localhost:5000
+ Visit http://localhost:5000
 
 ```
 
