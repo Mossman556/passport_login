@@ -23,3 +23,6 @@ npm run dev
 
 ```
 
+# IMPORTANT:
+
+You will need to install MongoDB and MongoDB compass. Start MongoDB server with command: net start mongodb.
